@@ -1,4 +1,4 @@
-### Hi friends!👋
+### Hi comrades!👋
 🔎I am Vladimir Potsepai, a Fullstack Developer. <hr>
 🌱 I am currently getting higher education in Moscow Aviation Institute (Computer Science). <br><br>
 📫 How to reach me: <br> 
