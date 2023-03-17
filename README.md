@@ -1,6 +1,6 @@
 ### Hi friends!👋
 🔎I am Vladimir Potsepai, a Fullstack Developer. <hr>
-🌱 I am currently getting higher education in MAI - Moscow Aviation Institute (Computer Science). <br><br>
+🌱 I am currently getting higher education in Moscow Aviation Institute (Computer Science). <br><br>
 📫 How to reach me: <br> 
 • Email: vovapo2004@gmail.com <br>
 • Telegram: https://t.me/Pochepayka <br><br>
