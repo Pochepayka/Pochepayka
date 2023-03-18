@@ -20,3 +20,4 @@
     <img src=https://img.shields.io/badge/figma-%23F24E1E.svg?&logo=figma&logoColor=white alt="Фотография 5">
     <img src=https://img.shields.io/badge/unity-%23000000.svg?&logo=unity&logoColor=white alt="Фотография 4">
   </p>
+   <img src=https://www.codewars.com/users/Pochepayka/badges/large alt="Фотография 4" width = 250px>
