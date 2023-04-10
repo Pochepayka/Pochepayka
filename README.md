@@ -7,7 +7,7 @@
 🚀 А little bit about my skills: <br> 
 • Python3, C++, C#, JS <br>
 • Html, CSS, sql, Figma <br>
-• Flask, Veu <br>
+• Flask, React JS <br>
 • Unity <br><br>
 🔭 I’m currently learning Flutter and Dart <hr>
 
