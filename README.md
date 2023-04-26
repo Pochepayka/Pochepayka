@@ -19,6 +19,10 @@
     <img src=https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white alt="Фотография 6">
     <img src=https://img.shields.io/badge/figma-%23F24E1E.svg?&logo=figma&logoColor=white alt="Фотография 5">
     <img src=https://img.shields.io/badge/unity-%23000000.svg?&logo=unity&logoColor=white alt="Фотография 4">
-    <img src=https://img.shields.io/badge/sqlite-%2307405e.svg?&logo=teradata&logoColor=white alt="Фотография 8">
+    <img src=https://img.shields.io/badge/sqlite-%2307405e.svg?&logo=sqlite&logoColor=white alt="Фотография 8">
+    <img src=https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB alt="Фотография 9">
+  
+    <img src=https://img.shields.io/badge/github%20pages-121013?&logo=github&logoColor=white alt="Фотография 10">
+  
   </p>
    <img src=https://www.codewars.com/users/Pochepayka/badges/large alt="Фотография 4" width = 250px>
