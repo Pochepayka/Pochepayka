@@ -22,7 +22,7 @@
     <img src=https://img.shields.io/badge/sqlite-%2307405e.svg?&logo=sqlite&logoColor=white alt="Фотография 8">
     <img src=https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB alt="Фотография 9">
   
-    <img src=https://img.shields.io/badge/github%20pages-121013?&logo=github&logoColor=white alt="Фотография 10">
+    <img src=https://img.shields.io/badge/github%20121013?&logo=github&logoColor=white alt="Фотография 10">
   
   </p>
    <img src=https://www.codewars.com/users/Pochepayka/badges/large alt="Фотография 4" width = 250px>
