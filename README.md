@@ -11,6 +11,8 @@
 • Unity <br><br>
 🔭 I’m currently learning Flutter and Dart <hr>
 
+https://myresume.ru/resume/uksJBx7KtnD/
+
   <p>
     <img src=https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54 alt="Фотография 1">
     <img src=https://img.shields.io/badge/c++-%2300599C.svg?&logo=c%2B%2B&logoColor=white alt="Фотография 2">
