@@ -1,7 +1,6 @@
 ### Hi comrades!👋
-🔎I am Vladimir Potsepai, a Fullstack Developer. 
+🔎I am <a href="https://myresume.ru/resume/uksJBx7KtnD/">Vladimir Potsepai</a>, a Fullstack Developer. 
 
-https://myresume.ru/resume/uksJBx7KtnD/
 <hr>
 🌱 I am currently getting higher education in Moscow Aviation Institute (Computer Science). <br><br>
 📫 How to reach me: <br> 
