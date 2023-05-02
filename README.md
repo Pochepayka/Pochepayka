@@ -1,5 +1,8 @@
 ### Hi comrades!👋
-🔎I am Vladimir Potsepai, a Fullstack Developer. <hr>
+🔎I am Vladimir Potsepai, a Fullstack Developer. 
+
+https://myresume.ru/resume/uksJBx7KtnD/
+<hr>
 🌱 I am currently getting higher education in Moscow Aviation Institute (Computer Science). <br><br>
 📫 How to reach me: <br> 
 • Email: vovapo2004@gmail.com <br>
@@ -11,7 +14,6 @@
 • Unity <br><br>
 🔭 I’m currently learning Flutter and Dart <hr>
 
-https://myresume.ru/resume/uksJBx7KtnD/
 
   <p>
     <img src=https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54 alt="Фотография 1">
