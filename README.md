@@ -26,6 +26,7 @@
     <img src=https://img.shields.io/badge/sqlite-%2307405e.svg?&logo=sqlite&logoColor=white alt="Фотография 8">
     <img src=https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB alt="Фотография 9">
     <img src=https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E alt="Фотография 11">
+    <img src=https://img.shields.io/badge/typescript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E alt="Фотография 11">
   
   </p>
    <img src=https://www.codewars.com/users/Pochepayka/badges/large alt="Фотография 4" width = 250px>
